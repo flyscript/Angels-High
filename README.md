@@ -1,5 +1,5 @@
 # Angels High
-# Weapons Free
+### Weapons Free
  A sim-cade style combat flight simulator with realistic and intuitive aircraft controls and physics, stunning graphics, and engaging first and third person views.
 
 You can play the game by [downloading AngelsHigh-Game](https://github.com/flyscript/Angels-High/blob/master/AngelsHigh-Game) and launching the .exe
