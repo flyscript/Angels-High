@@ -1,6 +1,6 @@
 # Angels High
 ### Weapons Free
- A sim-cade style combat flight simulator with realistic and intuitive aircraft controls and physics, stunning graphics, and engaging first and third person views.
+A sim-cade style combat flight simulator built in C++ with Unreal Engine 4, featuring realistic and intuitive aircraft controls and physics, stunning graphics, and engaging first and third person views.
 
 You can play the game by [downloading AngelsHigh-Game](https://github.com/flyscript/Angels-High/blob/master/AngelsHigh-Game) and launching the .exe
 
