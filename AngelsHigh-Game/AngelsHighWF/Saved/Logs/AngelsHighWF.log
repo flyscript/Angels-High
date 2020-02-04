@@ -1,0 +1,1107 @@
+﻿Log file open, 02/04/20 09:08:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../AngelsHighWF/Content/Paks/AngelsHighWF-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../AngelsHighWF/Content/Paks/AngelsHighWF-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.338474
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for i386-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (32-bit): Mar 31 2019 02:14:27
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/University/Module 11/Module 11/Submissions/Game/Game Build/WindowsNoEditor/AngelsHighWF/Binaries/Win32/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[r.TextureStreaming:0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.02.04-09.08.46:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.04-09.08.46:947][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.04-09.08.46:948][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.04-09.08.46:948][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.04-09.08.46:948][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.04-09.08.46:948][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.04-09.08.46:948][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.04-09.08.46:948][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.04-09.08.46:948][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.04-09.08.46:948][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.04-09.08.46:948][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.02.04-09.08.46:970][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.46:970][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.04-09.08.46:970][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.04-09.08.46:970][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.46:970][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.04-09.08.46:970][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.46:970][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.04-09.08.46:970][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.04-09.08.46:970][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.04-09.08.46:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.04-09.08.46:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.04-09.08.46:970][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.04-09.08.46:971][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.04-09.08.46:972][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.04-09.08.46:972][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.02.04-09.08.46:973][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.02.04-09.08.47:067][  0]LogHAL: Display: Platform has ~ 16 GB [17104588800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.04-09.08.47:067][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.04-09.08.47:067][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.04-09.08.47:067][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.04-09.08.47:067][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.04-09.08.47:068][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.04-09.08.47:069][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.04-09.08.47:069][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.04-09.08.47:070][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.04-09.08.47:070][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../AngelsHighWF/Saved/Config/WindowsNoEditor/Engine.ini]
+[2020.02.04-09.08.47:070][  0]LogInit: Computer: BCUD2-004337
+[2020.02.04-09.08.47:070][  0]LogInit: User: S17127183
+[2020.02.04-09.08.47:070][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.04-09.08.47:070][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.04-09.08.47:070][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=4.0GB
+[2020.02.04-09.08.47:070][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.02.04-09.08.47:070][  0]LogMemory: Process Physical Memory: 49.05 MB used, 49.06 MB peak
+[2020.02.04-09.08.47:070][  0]LogMemory: Process Virtual Memory: 65.69 MB used, 65.69 MB peak
+[2020.02.04-09.08.47:070][  0]LogMemory: Physical Memory: 5871.69 MB used,  10440.52 MB free, 16312.21 MB total
+[2020.02.04-09.08.47:070][  0]LogMemory: Virtual Memory: 293.09 MB used,  3802.79 MB free, 4095.88 MB total
+[2020.02.04-09.08.47:555][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.04-09.08.47:555][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.04-09.08.47:555][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.02.04-09.08.47:798][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.04-09.08.47:798][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.04-09.08.47:834][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.04-09.08.47:834][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.04-09.08.47:969][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.02.04-09.08.47:969][  0]LogD3D11RHI:       3072/0/1023 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.02.04-09.08.48:011][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.04-09.08.48:011][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.04-09.08.48:011][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.04-09.08.48:020][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.04-09.08.48:020][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.04-09.08.48:020][  0]LogWindows: EnumDisplayDevices:
+[2020.02.04-09.08.48:020][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.02.04-09.08.48:021][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.02.04-09.08.48:021][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.02.04-09.08.48:021][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.02.04-09.08.48:021][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.04-09.08.48:021][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.02.04-09.08.48:021][  0]LogD3D11RHI:   Driver Version: 381.99 (internal:22.21.13.8199, unified:381.99)
+[2020.02.04-09.08.48:022][  0]LogD3D11RHI:      Driver Date: 4-26-2017
+[2020.02.04-09.08.48:022][  0]LogRHI: Texture pool is 716 MB (70% of 1024 MB)
+[2020.02.04-09.08.48:095][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.04-09.08.48:101][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.04-09.08.48:102][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.04-09.08.48:102][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.04-09.08.48:109][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.04-09.08.48:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2020.02.04-09.08.48:249][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global_SC and no native library supported.
+[2020.02.04-09.08.48:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2020.02.04-09.08.48:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2020.02.04-09.08.48:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2020.02.04-09.08.48:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2020.02.04-09.08.48:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing and no native library supported.
+[2020.02.04-09.08.48:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing_SC and no native library supported.
+[2020.02.04-09.08.48:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing and no native library supported.
+[2020.02.04-09.08.48:250][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing_SC and no native library supported.
+[2020.02.04-09.08.48:251][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2020.02.04-09.08.48:251][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2020.02.04-09.08.48:251][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2020.02.04-09.08.48:251][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2020.02.04-09.08.48:251][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2020.02.04-09.08.48:251][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2020.02.04-09.08.48:251][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2020.02.04-09.08.48:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2020.02.04-09.08.48:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2020.02.04-09.08.48:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2020.02.04-09.08.48:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2020.02.04-09.08.48:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2020.02.04-09.08.48:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2020.02.04-09.08.48:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2020.02.04-09.08.48:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR and no native library supported.
+[2020.02.04-09.08.48:252][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OculusVR_SC and no native library supported.
+[2020.02.04-09.08.48:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2020.02.04-09.08.48:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2020.02.04-09.08.48:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR and no native library supported.
+[2020.02.04-09.08.48:253][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: SteamVR_SC and no native library supported.
+[2020.02.04-09.08.48:311][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.04-09.08.48:336][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.04-09.08.48:346][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.04-09.08.48:769][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AngelsHighWF and no native library supported.
+[2020.02.04-09.08.48:770][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AngelsHighWF_SC and no native library supported.
+[2020.02.04-09.08.48:770][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2020.02.04-09.08.48:770][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AngelsHighWF and no native library supported.
+[2020.02.04-09.08.48:770][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AngelsHighWF_SC and no native library supported.
+[2020.02.04-09.08.48:770][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2020.02.04-09.08.48:770][  0]LogRHI: Display: Failed to open default shader pipeline cache for AngelsHighWF using shader platform 0.
+[2020.02.04-09.08.48:770][  0]LogRHI: Display: Failed to open default shader pipeline cache for AngelsHighWF using shader platform 0.
+[2020.02.04-09.08.48:770][  0]LogInit: Using OS detected language (en-GB).
+[2020.02.04-09.08.48:770][  0]LogInit: Using OS detected locale (en-GB).
+[2020.02.04-09.08.48:770][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the language.
+[2020.02.04-09.08.48:770][  0]LogTextLocalizationManager: No localization for 'en-GB' exists, so 'en' will be used for the locale.
+[2020.02.04-09.08.48:770][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.02.04-09.08.48:771][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2020.02.04-09.08.48:771][  0]LogTextLocalizationManager: Compacting localization data took   0.35ms
+[2020.02.04-09.08.48:779][  0]LogAssetRegistry: FAssetRegistry took 0.0075 seconds to start up
+[2020.02.04-09.08.48:861][  0]LogStreaming: Display: Flushing async loaders.
+[2020.02.04-09.08.48:861][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.000061 seconds
+[2020.02.04-09.08.48:861][  0]LogPakFile: New pak file ../../../AngelsHighWF/Content/Paks/AngelsHighWF-WindowsNoEditor.pak added to pak precacher.
+[2020.02.04-09.08.48:878][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.02.04-09.08.48:968][  0]LogNetVersion: AngelsHighWF 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2822109558)
+[2020.02.04-09.08.52:188][  0]LogMoviePlayer: Initializing movie player
+[2020.02.04-09.08.52:188][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.04-09.08.52:189][  0]LogOcInput: OculusInput pre-init called
+[2020.02.04-09.08.52:193][  0]LogUObjectArray: 43846 objects as part of root set at end of initial load.
+[2020.02.04-09.08.52:193][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2020.02.04-09.08.52:193][  0]LogUObjectAllocator: 5921108 out of 0 bytes used by permanent object pool.
+[2020.02.04-09.08.52:193][  0]LogUObjectArray: CloseDisregardForGC: 43846/43846 objects in disregard for GC pool
+[2020.02.04-09.08.52:270][  0]LogEngine: Initializing Engine...
+[2020.02.04-09.08.52:273][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.04-09.08.52:288][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.02.04-09.08.52:861][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.04-09.08.52:973][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.04-09.08.53:048][  0]LogInit: XAudio2 using 'T22v-10-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.04-09.08.53:161][  0]LogInit: FAudioDevice initialized.
+[2020.02.04-09.08.53:172][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.04-09.08.53:173][  0]LogInit: Texture streaming: Disabled
+[2020.02.04-09.08.53:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-09.08.53:176][  0]LogInit: Display: Game Engine Initialized.
+[2020.02.04-09.08.53:177][  0]LogInit: Display: Starting Game.
+[2020.02.04-09.08.53:177][  0]LogNet: Browse: /Game/TestLevel?Name=Player
+[2020.02.04-09.08.53:180][  0]LogLoad: LoadMap: /Game/TestLevel?Name=Player
+[2020.02.04-09.08.53:190][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.04-09.08.57:100][  0]LogAIModule: Creating AISystem for world TestLevel
+[2020.02.04-09.08.57:100][  0]LogLoad: Game class is 'AngelsHigh_GameMode_C'
+[2020.02.04-09.08.57:166][  0]LogWorld: Bringing World /Game/TestLevel.TestLevel up for play (max tick rate 0) at 2020.02.04-09.08.57
+[2020.02.04-09.08.57:171][  0]LogWorld: Bringing up level for play took: 0.069466
+[2020.02.04-09.08.57:173][  0]LogActor: Warning: FA18_Player_C /Game/TestLevel.TestLevel:PersistentLevel.FA18_Player_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:173][  0]LogActor: Warning: FA18_Aircraft_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Aircraft Body_FA18_Aircraft_Model_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:174][  0]LogActor: Warning: EngineNozzle_C /Game/TestLevel.TestLevel:PersistentLevel.Left Engine_EngineNozzle_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:175][  0]LogActor: Warning: EngineNozzle_C /Game/TestLevel.TestLevel:PersistentLevel.Right Engine_EngineNozzle_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:177][  0]LogActor: Warning: AirToAir_C /Game/TestLevel.TestLevel:PersistentLevel.Weapons_AirToAir_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:177][  0]LogActor: Warning: ATA_AIM9_C /Game/TestLevel.TestLevel:PersistentLevel.ATA_AIM9_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:177][  0]LogActor: Warning: AIM9M_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon1_AIM9M_Weapon_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:177][  0]LogActor: Warning: AIM9M_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_AIM9M_Model_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:178][  0]LogActor: Warning: ATA_AIM120_C /Game/TestLevel.TestLevel:PersistentLevel.ATA_AIM120_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:178][  0]LogActor: Warning: AIM120_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon1_AIM120_Weapon_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:178][  0]LogActor: Warning: AIM120_Model_C /Game/TestLevel.TestLevel:PersistentLevel.AIM120_Model_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:178][  0]LogActor: Warning: ATA_MBDA_C /Game/TestLevel.TestLevel:PersistentLevel.ATA_MBDA_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:178][  0]LogActor: Warning: MBDA_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon1_MBDA_Weapon_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:178][  0]LogActor: Warning: MBDA_Model_C /Game/TestLevel.TestLevel:PersistentLevel.MBDA_Model_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:179][  0]LogActor: Warning: FA18_Cockpit_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Cockpit Model_FA18_Cockpit_Model_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:182][  0]LogUMG: Display: Widget Class MainScreen_HUD_C - Loaded Fast Template.
+[2020.02.04-09.08.57:182][  0]LogUMG: Display: Widget Class Glass_HUD_2_C - Loaded Fast Template.
+[2020.02.04-09.08.57:188][  0]LogUMG: Display: Widget Class 3rd_Person_HUD_C - Loaded Fast Template.
+[2020.02.04-09.08.57:190][  0]LogActor: Warning: AIM9M_Model_C /Game/TestLevel.TestLevel:PersistentLevel.AIM9M_Model_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:190][  0]LogActor: Warning: AIM9M_Model_C /Game/TestLevel.TestLevel:PersistentLevel.AIM9M_Model_C_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:190][  0]LogActor: Warning: AIM120_Model_C /Game/TestLevel.TestLevel:PersistentLevel.AIM120_Model_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:191][  0]LogActor: Warning: AIM120_Model_C /Game/TestLevel.TestLevel:PersistentLevel.AIM120_Model_C_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:191][  0]LogActor: Warning: AIM120_Model_C /Game/TestLevel.TestLevel:PersistentLevel.AIM120_Model_C_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:191][  0]LogActor: Warning: AIM120_Model_C /Game/TestLevel.TestLevel:PersistentLevel.AIM120_Model_C_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:191][  0]LogActor: Warning: MBDA_Model_C /Game/TestLevel.TestLevel:PersistentLevel.MBDA_Model_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:191][  0]LogActor: Warning: MBDA_Model_C /Game/TestLevel.TestLevel:PersistentLevel.MBDA_Model_C_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:192][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:192][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:192][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:192][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:192][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:192][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:193][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:193][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:193][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:193][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:193][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:193][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:194][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:194][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:194][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:194][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:194][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:194][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:195][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:195][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:195][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:195][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:195][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:195][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:196][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:196][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:196][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:196][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:196][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:196][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:197][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:197][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:197][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:197][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:197][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:197][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:198][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:198][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:198][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:198][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:198][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:198][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:199][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:199][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:199][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:199][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:199][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:199][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:200][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:200][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:200][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:200][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:200][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:200][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:201][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:201][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:201][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:201][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:201][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:202][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:202][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:202][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:202][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:202][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:203][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:203][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:204][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:204][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:204][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:204][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:204][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:204][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:205][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:205][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:205][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_37 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:205][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_37 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:206][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:206][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:206][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:206][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:207][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:207][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:207][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_41 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:207][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_41 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:207][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:207][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:208][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_43 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:208][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_43 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:208][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_44 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:208][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_44 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:208][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_45 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:209][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_45 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:209][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_46 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:209][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_46 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:209][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_47 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:209][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_47 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:210][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_48 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:210][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_48 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:210][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_49 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:210][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_49 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:211][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_50 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:211][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_50 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:211][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_51 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:211][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_51 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:211][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_52 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:212][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_52 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:212][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_53 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:212][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_53 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:213][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_54 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:213][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_54 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:213][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_55 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:213][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_55 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:214][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:214][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_56 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:214][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:214][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:215][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_58 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:215][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_58 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:215][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_59 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:215][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_59 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:216][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_60 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:216][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_60 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:216][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_61 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:216][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_61 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:217][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_62 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:217][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_62 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:217][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_63 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:217][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_63 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:218][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_64 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:218][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_64 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:218][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_65 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:218][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_65 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:219][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_66 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:219][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_66 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:219][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_67 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:219][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_67 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:220][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_68 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:220][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_68 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:220][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_69 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:221][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_69 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:221][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_70 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:221][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_70 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:222][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_71 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:222][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_71 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:222][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_72 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:222][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_72 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:223][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_73 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:223][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_73 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:224][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:224][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_74 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:224][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_75 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:224][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_75 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:225][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:225][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_76 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:225][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_77 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:225][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_77 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:226][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:226][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_78 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:227][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_79 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:227][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_79 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:227][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_80 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:227][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_80 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:228][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_81 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:228][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_81 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:228][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_82 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:228][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_82 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:229][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_83 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:229][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_83 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:230][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_84 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:230][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_84 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:230][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_85 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:231][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_85 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:231][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_86 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:231][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_86 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:232][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_87 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:232][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_87 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:233][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_88 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:233][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_88 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:234][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_89 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:234][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_89 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:235][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_90 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:235][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_90 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:235][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_91 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:235][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_91 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:236][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_92 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:236][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_92 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:237][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_93 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:237][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_93 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:238][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_94 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:238][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_94 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:239][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_95 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:239][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_95 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:240][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_96 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:240][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_96 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:240][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_97 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:240][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_97 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:241][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_98 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:241][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_98 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:242][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_99 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:242][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_99 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:243][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_100 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:243][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_100 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:243][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_101 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:244][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_101 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:244][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_102 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:244][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_102 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:245][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_103 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:245][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_103 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:246][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_104 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:246][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_104 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:246][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_105 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:247][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_105 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:247][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_106 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:247][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_106 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:248][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_107 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:248][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_107 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:249][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_108 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:249][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_108 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:250][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_109 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:250][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_109 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:251][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_110 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:251][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_110 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:252][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_111 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:252][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_111 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:253][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_112 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:253][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_112 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:254][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_113 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:254][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_113 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:254][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_114 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:254][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_114 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:255][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_115 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:255][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_115 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:256][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_116 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:256][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_116 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:257][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_117 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:257][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_117 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:258][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_118 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:258][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_118 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:259][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_119 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:259][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_119 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:260][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_120 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:260][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_120 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:261][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_121 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:261][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_121 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:262][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_122 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:262][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_122 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:263][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_123 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:263][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_123 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:264][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_124 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:264][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_124 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:265][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_125 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:265][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_125 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:266][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_126 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:266][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_126 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:267][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_127 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:267][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_127 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:268][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_128 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:268][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_128 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:269][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_129 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:269][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_129 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:269][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_130 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:270][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_130 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:270][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_131 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:270][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_131 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:271][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_132 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:271][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_132 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:272][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_133 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:272][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_133 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:273][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_134 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:273][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_134 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:274][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_135 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:274][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_135 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:275][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_136 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:275][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_136 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:276][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_137 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:276][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_137 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:277][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_138 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:277][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_138 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:278][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_139 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:278][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_139 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:279][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_140 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:279][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_140 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:280][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_141 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:280][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_141 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:281][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_142 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:281][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_142 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:282][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_143 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:282][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_143 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:283][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_144 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:283][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_144 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:284][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_145 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:284][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_145 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:285][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_146 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:285][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_146 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:286][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_147 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:286][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_147 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:287][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_148 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:287][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_148 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:288][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_149 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:288][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_149 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:289][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_150 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:289][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_150 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:290][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_151 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:290][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_151 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:291][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_152 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:291][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_152 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:292][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_153 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:292][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_153 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:293][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_154 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:293][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_154 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:294][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_155 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:294][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_155 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:296][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_156 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:296][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_156 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:297][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_157 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:297][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_157 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:300][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_158 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:300][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_158 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:302][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_159 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:302][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_159 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:304][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_160 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:304][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_160 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:306][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_161 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:306][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_161 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:307][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_162 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:307][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_162 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:308][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_163 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:308][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_163 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:310][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:310][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_164 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:311][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_165 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:311][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_165 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:312][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_166 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:312][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_166 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:314][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_167 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:314][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_167 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:315][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_168 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:315][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_168 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:316][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:316][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_169 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:317][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_170 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:317][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_170 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:319][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_171 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:319][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_171 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:320][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_172 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:320][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_172 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:321][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_173 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:321][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_173 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:322][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_174 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:322][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_174 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:323][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_175 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:323][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_175 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:325][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_176 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:325][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_176 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:326][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_177 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:326][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_177 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:327][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_178 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:327][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_178 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:329][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_179 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:329][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_179 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:330][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_180 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:330][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_180 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:331][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_181 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:331][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_181 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:333][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_182 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:333][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_182 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:334][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_183 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:334][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_183 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:335][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_184 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:336][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_184 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:337][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_185 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:337][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_185 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:338][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_186 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:338][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_186 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:339][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_187 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:339][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_187 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:340][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_188 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:341][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_188 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:342][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_189 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:342][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_189 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:343][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_190 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:343][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_190 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:345][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_191 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:345][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_191 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:346][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_192 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:346][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_192 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:348][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_193 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:348][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_193 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:349][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_194 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:349][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_194 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:351][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_195 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:351][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_195 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:352][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_196 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:352][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_196 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:354][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_197 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:354][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_197 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:355][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_198 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:356][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_198 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:357][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_199 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:357][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_199 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:358][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_200 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:358][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_200 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:360][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_201 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:360][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_201 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:361][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_202 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:362][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_202 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:363][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_203 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:363][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_203 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:365][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_204 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:365][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_204 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:366][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_205 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:366][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_205 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:368][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_206 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:368][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_206 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:370][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_207 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:370][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_207 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:371][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_208 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:371][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_208 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:372][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_209 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:372][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_209 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:375][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_210 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:375][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_210 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:377][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_211 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:377][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_211 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:378][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_212 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:378][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_212 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:380][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_213 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:380][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_213 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:382][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_214 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:382][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_214 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:384][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_215 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:384][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_215 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:385][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_216 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:385][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_216 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:387][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_217 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:387][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_217 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:389][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_218 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:389][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_218 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:391][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_219 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:391][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_219 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:393][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_220 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:393][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_220 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:395][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_221 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:395][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_221 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:397][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_222 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:397][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_222 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:398][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_223 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:398][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_223 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:400][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_224 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:400][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_224 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:402][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_225 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:402][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_225 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:405][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_226 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:405][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_226 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:407][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_227 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:407][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_227 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:409][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_228 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:410][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_228 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:411][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_229 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:411][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_229 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:414][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_230 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:414][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_230 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:416][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_231 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:416][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_231 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:419][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_232 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:419][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_232 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:422][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_233 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:422][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_233 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:424][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_234 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:424][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_234 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:434][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_235 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:434][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_235 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:436][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_236 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:436][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_236 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:438][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_237 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:438][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_237 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:440][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_238 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:441][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_238 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:443][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_239 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:443][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_239 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:445][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_240 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:445][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_240 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:447][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_241 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:447][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_241 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:448][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_242 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:448][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_242 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:450][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_243 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:450][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_243 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:452][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_244 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:452][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_244 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:454][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_245 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:454][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_245 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:456][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_246 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:456][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_246 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:458][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_247 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:458][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_247 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:460][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_248 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:460][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_248 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:461][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_249 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:461][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_249 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:463][  0]LogActor: Warning: Bullet_Weapon_C /Game/TestLevel.TestLevel:PersistentLevel.Bullet_Weapon_C_250 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:464][  0]LogActor: Warning: Bullet_Model_C /Game/TestLevel.TestLevel:PersistentLevel.Weapon Component_Bullet_Model_C_CAT_250 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2020.02.04-09.08.57:466][  0]LogLoad: Took 4.286308 seconds to LoadMap(/Game/TestLevel)
+[2020.02.04-09.08.57:498][  0]LogLoad: (Engine Initialization) Total time: 13.66 seconds
+[2020.02.04-09.08.57:501][  0]LogRenderer: Reallocating scene render targets to support 1408x792 Format 10 NumSamples 1 (Frame:1).
+[2020.02.04-09.08.57:687][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2020.02.04-09.08.57:746][  0]LogRenderer: Reallocating scene render targets to support 1408x792 Format 10 NumSamples 1 (Frame:2).
+[2020.02.04-09.08.57:779][  0]LogSlate: Slate font cache was flushed
+[2020.02.04-09.08.57:909][  6]LogSlate: Took 0.015204 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.02.04-09.09.19:122][301]LogSlate: Took 0.007037 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2020.02.04-09.09.22:986][541]LogWindowsDesktop: Alt-F4 pressed!
+[2020.02.04-09.09.22:987][541]LogSlate: Request Window 'AngelsHighWF (32-bit Development PCD3D_SM5) ' being destroyed
+[2020.02.04-09.09.23:012][541]LogSlate: Window 'AngelsHighWF (32-bit Development PCD3D_SM5) ' being destroyed
+[2020.02.04-09.09.23:023][541]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.04-09.09.23:030][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-09.09.23:030][541]LogEngine: All Windows Closed
+[2020.02.04-09.09.23:030][541]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.02.04-09.09.23:371][542]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.04-09.09.23:371][542]LogExit: Preparing to exit.
+[2020.02.04-09.09.23:371][542]LogMoviePlayer: Shutting down movie player
+[2020.02.04-09.09.23:378][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-09.09.23:416][542]LogExit: Game engine shut down
+[2020.02.04-09.09.23:498][542]LogExit: Object subsystem successfully closed.
+[2020.02.04-09.09.23:525][542]LogD3D11RHI: Shutdown
+[2020.02.04-09.09.23:525][542]LogD3D11RHI: CleanupD3DDevice
+[2020.02.04-09.09.23:526][542]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.04-09.09.23:526][542]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.04-09.09.23:526][542]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.04-09.09.23:526][542]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.04-09.09.23:526][542]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.04-09.09.23:526][542]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.04-09.09.23:788][542]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module AutomationController (200)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module AutomationWorker (198)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module Voice (196)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module AIModule (194)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module GameplayDebugger (193)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module NavigationSystem (191)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module OculusMR (188)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (186)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (184)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (182)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (180)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module CharacterAI (178)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module SessionServices (176)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module LiveCoding (174)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module LevelSequence (172)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (170)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module MovieScene (168)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (166)
+[2020.02.04-09.09.23:790][542]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (164)
+[2020.02.04-09.09.23:792][542]LogModuleManager: Shutting down and abandoning module ProfilerService (162)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module TaskGraph (160)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module SteamVRController (158)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (156)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module OculusInput (154)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (152)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module EditableMesh (150)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (148)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module CableComponent (146)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module AudioCapture (144)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (142)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module AndroidPermission (140)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module MediaCompositing (138)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module LinearTimecode (136)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module ImgMedia (134)
+[2020.02.04-09.09.24:002][542]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module BackChannel (130)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module AppleVision (128)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module AppleImageUtils (126)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (124)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module GeometryCache (122)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module VariantManagerContent (120)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module AngelsHighWF (118)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (116)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module PhysXVehicles (114)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (112)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module ActorSequence (110)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module UdpMessaging (108)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module TcpMessaging (106)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module FacialAnimation (104)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module SignificanceManager (102)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module AnimationSharing (100)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (98)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module AISupportModule (96)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module Paper2D (94)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module PacketHandler (90)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (88)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module MediaAssets (86)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module Overlay (84)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module UMG (82)
+[2020.02.04-09.09.24:003][542]LogModuleManager: Shutting down and abandoning module SlateReflector (80)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module Slate (78)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module MRMesh (76)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module Messaging (74)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (72)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module Core (66)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module ImageWrapper (62)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module PhysXCooking (58)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module SteamVR (56)
+[2020.02.04-09.09.24:004][542]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module OculusHMD (54)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (52)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (50)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2020.02.04-09.09.24:004][542]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.02.04-09.09.24:023][542]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.02.04-09.09.24:024][542]LogModuleManager: Shutting down and abandoning module WmfMedia (36)
+[2020.02.04-09.09.24:025][542]LogModuleManager: Shutting down and abandoning module Media (35)
+[2020.02.04-09.09.24:030][542]LogModuleManager: Shutting down and abandoning module DatasmithContent (32)
+[2020.02.04-09.09.24:031][542]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.04-09.09.24:031][542]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.04-09.09.24:031][542]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.04-09.09.24:031][542]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.04-09.09.24:031][542]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.04-09.09.24:031][542]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.04-09.09.24:031][542]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.04-09.09.24:031][542]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.04-09.09.24:031][542]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.04-09.09.24:032][542]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.04-09.09.24:032][542]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.04-09.09.24:032][542]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.04-09.09.24:032][542]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.04-09.09.24:032][542]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.04-09.09.24:035][542]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.04-09.09.24:041][542]LogExit: Exiting.
+[2020.02.04-09.09.24:067][542]Log file closed, 02/04/20 09:09:24
