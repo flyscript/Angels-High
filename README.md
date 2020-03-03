@@ -8,6 +8,8 @@ Whilst not natively launchable in VR, this game can be played in Virtual Reality
 
 This game was built in Unreal Engine 4, and you can open it in-engine by downloading [AngelsHigh-Source](https://github.com/flyscript/Angels-High/blob/master/AngelsHigh-Source/) and opening the .uproject. This will prompt you to select a build of Unreal with which to open it. The game will then open after Unreal has built its requisitproject files.
 
+![Image of Angles High: WF](https://static.wixstatic.com/media/3978e6_7d71e5528a2442c49250ffc6764d093cf003.jpg)
+
 ### Key Features:
 * Realistic lift, thrust, and drag physics simulations
 * Dynamic equations that alter lift and drag based on aircraft alpha to the airstream
