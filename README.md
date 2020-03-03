@@ -10,7 +10,7 @@ This game was built in Unreal Engine 4, and you can open it in-engine by downloa
 
 ![Image of Angles High: WF](https://static.wixstatic.com/media/3978e6_7d71e5528a2442c49250ffc6764d093cf003.jpg)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=HRU1hxCyKoM" target="_blank"><img src="http://img.youtube.com/vi/HRU1hxCyKoM/0.jpg" alt="Video Clip of AH:WF" width="1280" height="720" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HRU1hxCyKoM" target="_blank"><img src="https://static.wixstatic.com/media/3978e6_7d71e5528a2442c49250ffc6764d093cf003.jpg" alt="Video Clip of AH:WF" width="853" height="480" border="10" /></a>
 
 
 [![Video Clip of AH:WF](http://img.youtube.com/vi/HRU1hxCyKoM/0.jpg)](http://www.youtube.com/watch?v=HRU1hxCyKoM)
