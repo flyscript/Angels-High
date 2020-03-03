@@ -6,9 +6,11 @@ You can play the game by downloading [AngelsHigh-Game](https://github.com/flyscr
 
 Whilst not natively launchable in VR, this game can be played in Virtual Reality from within the UE4 editor for maximum immersion!
 
-This game was built in Unreal Engine 4, and you can open it in-engine by downloading [AngelsHigh-Source](https://github.com/flyscript/Angels-High/blob/master/AngelsHigh-Source/) and opening the .uproject. This will prompt you to select a build of Unreal with which to open it. The game will then open after Unreal has built its requisitproject files.
+This game was built in Unreal Engine 4, and you can open it in-engine by downloading [AngelsHigh-Source](https://github.com/flyscript/Angels-High/blob/master/AngelsHigh-Source/) and opening the .uproject. This will prompt you to select a build of Unreal with which to open it. The game will then open after Unreal has built its requisit project files.
 
 ![Image of Angles High: WF](https://static.wixstatic.com/media/3978e6_7d71e5528a2442c49250ffc6764d093cf003.jpg)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YHRU1hxCyKoM" target="_blank"><img src="http://img.youtube.com/vi/HRU1hxCyKoM/0.jpg" alt="Video CLip of AH:WF" width="240" height="180" border="10" /></a>
 
 ### Key Features:
 * Realistic lift, thrust, and drag physics simulations
