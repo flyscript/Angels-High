@@ -16,7 +16,7 @@ This repo uses [Git LFS](https://git-lfs.github.com/) due to its large file size
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HRU1hxCyKoM" target="_blank"><img src="https://static.wixstatic.com/media/3978e6_7d71e5528a2442c49250ffc6764d093cf003.jpg" alt="Video Clip of AH:WF" width="853" height="480" border="10" /></a>
 
-<h1 id="Features">Key Features:</h1>
+<h2 id="Features">Key Features:</h2>
 
 * [Virtual Reality](https://twitter.com/FlyScript/status/1141880057603993600) support for an immersive and engaging experience
 * Realistic [lift, thrust, and drag physics simulations](https://github.com/flyscript/Angels-High/blob/master/AngelsHigh-Source/Source/AngelsHighWF/Private/AircraftBase.cpp#L114)
