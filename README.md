@@ -14,7 +14,7 @@ Not for commercial use.
 
 This repo uses [Git LFS](https://git-lfs.github.com/) due to its large file size.
 
-##### Video:
+#### Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HRU1hxCyKoM" target="_blank"><img src="https://static.wixstatic.com/media/3978e6_7d71e5528a2442c49250ffc6764d093cf003.jpg" alt="Video Clip of AH:WF" width="853" height="480" border="10" /></a>
 
 <h2 id="Features">Key Features:</h2>
