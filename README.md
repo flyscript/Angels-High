@@ -12,7 +12,7 @@ Some blueprints were used for constructing child class's component transforms an
 
 Not for commercial use.
 
-This repo uses [Git LFS](https://git-lfs.github.com/) due to its large file size. If you don't install Git LFS, [you may get graphical errors](https://help.github.com/en/github/managing-large-files/collaboration-with-git-large-file-storage). [Install it](https://git-lfs.github.com/) and clone this repo via Git Bash or Git GUI for optimum results.
+This repo uses [Git LFS](https://git-lfs.github.com/) due to its large file size. [If you don't install Git LFS](https://help.github.com/en/github/managing-large-files/collaboration-with-git-large-file-storage), you may get graphical errors. [Install it](https://git-lfs.github.com/) and clone this repo via Git Bash or Git GUI for optimum results.
 
 #### Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HRU1hxCyKoM" target="_blank"><img src="https://static.wixstatic.com/media/3978e6_7d71e5528a2442c49250ffc6764d093cf003.jpg" alt="Video Clip of AH:WF" width="853" height="480" border="10" /></a>
